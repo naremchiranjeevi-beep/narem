@@ -17,5 +17,5 @@ Aspiring Cybersecurity Expert | Beginner with hands-on labs
 - CEH (future goal)
 
 ## 📫 Connect
-- [LinkedIn]((https://www.linkedin.com/in/n-chiranjeevi-24b0602b1/))
+- [LinkedIn](https://www.linkedin.com/in/n-chiranjeevi-24b0602b1/)
 - Email: naremchiranjeevi@gmail.com
